@@ -14,16 +14,16 @@ const Hero = () => {
         <div className="hero-overlay bg-opacity-70"></div>
         <div className="hero-content text-center text-neutral-content">
           <div className="max-w-md">
-            <h1 className="mb-5 text-5xl font-bold">Mafeng high school counselors access</h1>
-            <p className="text-xl md:text-2xl mb-8 underline font-extrabold">
+            <h1 className="mb-5 text-2xl md:text-5xl font-bold">Mafeng high school counselors access</h1>
+            <p className="text-sm md:text-2xl mb-8 font-extrabold">
               Your path to a successful career starts here.
             </p>
             <div className="bg-[#26053a91] px-4 py-2 rounded-br-3xl rounded-tl-3xl">
-              <p className="text-lg font-extrabold">
+              <p className="text-sm md:text-lg font-extrabold">
                 Connect with our experienced career counselors and discover the
                 perfect career path for you.
               </p>
-              <p className="text-lg font-extrabold">
+              <p className="text-sm md:text-lg font-extrabold">
                 Whether you're a student exploring options or looking for a
                 career change, MHS counselors access has got you covered.
               </p>

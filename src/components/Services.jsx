@@ -4,8 +4,8 @@ import { Element } from "react-scroll";
 const Services = () => {
   return (
     <Element name="Services">
-      <section className="flex flex-row w-full mt-5">
-        <div className="flex flex-col md:flex-row w-full h-[80vh]">
+      <section className="flex flex-row w-full md:mt-5 mt-20">
+        <div className="flex flex-col md:flex-row w-full h-auto">
           {/* services */}
           <div className=" flex flex-col flex-1 md:w-6/12 justify-center items-center align-middle text-center px-10 text-2xl w-full md:text-4xl">
             <h1 className="font-extrabold text-purple-500">

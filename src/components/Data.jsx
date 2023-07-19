@@ -314,7 +314,7 @@ const careers = [
 
 ];
 
-for (let i = 1; i <= 200; i++) {
+for (let i = 1; i <= 1000; i++) {
   const name = generateRandomName();
   const image = generateRandomImage();
   const description = `As a counselor, ${name} can provide guidance and support to help you pursue a successful career to become a`;
